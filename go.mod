@@ -1,6 +1,6 @@
-module github.com/liamg/memoryfs
+module github.com/zeus-fyi/memoryfs
 
-go 1.17
+go 1.19
 
 require github.com/stretchr/testify v1.7.1
 
